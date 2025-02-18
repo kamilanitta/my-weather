@@ -47,26 +47,26 @@ function App() {
       </main>
       <footer>
         <p>
-          This project was coded by
+          This project was coded by{" "}
           <a
             href="#"
             target="_blank"
           >
-            Kamila Nitta
+            Kamila Nitta{" "}
           </a>
-          and is
+          and is{" "}
           <a
-            href="https://github.com/kamilanitta/weather"
+            href="https://github.com/kamilanitta/my-weather"
             target="_blank"
           >
-            on GitHub
+            on GitHub{" "}
           </a>
-          and
+          and{" "}
           <a
-            href="https://keen-dragon-344a37.netlify.app/"
+            href="https://my-weather-she-codes.netlify.app/"
             target="_blank"
           >
-            hosted on Netlify
+            hosted on Netlify.
           </a>
         </p>
       </footer>
